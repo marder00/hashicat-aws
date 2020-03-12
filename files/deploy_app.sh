@@ -9,7 +9,7 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="https://media.giphy.com/media/xUNd9Rptr2yQVNrUt2/giphy.gif"></img></center>
+  <center><img src="https://media.tenor.com/images/3fcb7efb7b9a20953a1d2bbd9dc035f7/tenor.gif"></img></center>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. Yup, that happened......
   <!-- END -->
