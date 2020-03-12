@@ -9,9 +9,9 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="https://i.pinimg.com/474x/63/7c/99/637c9949ebf504c1b492153d2bb3c775--black-and-white-portraits-white-lions.jpg"></img></center>
+  <center><img src="https://media.giphy.com/media/xUNd9Rptr2yQVNrUt2/giphy.gif"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to ${PREFIX}'s app. Yup, that happened......
   <!-- END -->
 
   </div>
